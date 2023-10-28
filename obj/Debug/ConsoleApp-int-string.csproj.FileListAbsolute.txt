@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ConsoleApp-int-string\ConsoleApp-int-string\bin\Debug\ConsoleApp-int-string.exe.config
+C:\Users\asus\source\repos\ConsoleApp-int-string\ConsoleApp-int-string\bin\Debug\ConsoleApp-int-string.exe
+C:\Users\asus\source\repos\ConsoleApp-int-string\ConsoleApp-int-string\bin\Debug\ConsoleApp-int-string.pdb
+C:\Users\asus\source\repos\ConsoleApp-int-string\ConsoleApp-int-string\obj\Debug\ConsoleApp-int-string.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ConsoleApp-int-string\ConsoleApp-int-string\obj\Debug\ConsoleApp-int-string.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ConsoleApp-int-string\ConsoleApp-int-string\obj\Debug\ConsoleApp-int-string.exe
+C:\Users\asus\source\repos\ConsoleApp-int-string\ConsoleApp-int-string\obj\Debug\ConsoleApp-int-string.pdb
